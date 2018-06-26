@@ -1,0 +1,32 @@
+권순임 https://github.com/ilovepineappler/turtle1
+김건우 https://github.com/ShinilUto/AIPython
+김경남 https://github.com/lifekkn/AIPython
+박은철 https://github.com/kodream18/DAPython.git
+박정수 https://github.com/js900613/integer0613
+박준희 https://github.com/JunheePark/code
+유효상 https://github.com/lifemonday/python_test_0001
+이영배 https://github.com/anffleodhkd
+정찬연 https://github.com/wjdtmxj/Python-Hansung-.git
+조정식 https://github.com/kminet/LifeManagement1.git
+허인서 https://github.com/make-gold/pandas3
+백설희 https://github.com/sulheebaek/DAPython
+
+3차
+과제01 (5/29): 3.4 소프트웨어 개발도구 요약
+과제02 (5/30): score 개인별 점수 계산 (ndarray 행렬곱)
+과제03 (5/31): NumPy 표의 용어 정리 (특히, linalg와 random 모듈)
+과제04 (6/1): score 오답율 계산 (ndarray 전치 등 활용)
+과제05 (6/4): yahoo 주가 데이터에 계층적 색인 적용
+과제06 (6/5): concrete 데이터 정규화, 누락값 처리
+과제07 (6/7): titanic 데이터 등급별 생존자 구하기
+과제08 (6/8): contacts 문자열 처리, 더미 변환
+
+4차
+과제10 (6/12): titanic 데이터 age 구간별 그룹 집계함수 적용 
+과제11 (6/14): 2016년 미국 대선 후원금 데이터 분석 (2012년 예 참고)
+과제12 (6/15): 2016년 미국 대선 후원금 데이터에 피봇테이블 적용
+과제13 (6/18): 야후 파이낸스 종가 데이터 다운, 리샘플링 적용
+
+
+
+
